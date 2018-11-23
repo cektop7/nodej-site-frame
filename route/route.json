@@ -1,0 +1,5 @@
+{
+	"/":"common/main",
+	"/articles":"common/main/otherPoint",
+	"/about":"about"
+}

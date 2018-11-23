@@ -1,0 +1,13 @@
+{
+	"ROOT_DIR":"c:\\temp\\framework",
+	"VIEW_DIR":"c:\\temp\\framework\\view",
+	"ROUTE_DIR":"c:\\temp\\framework\\route",
+	"LIBRARY_DIR":"c:\\temp\\framework\\library",
+	"CONTROLLER_DIR":"c:\\temp\\framework\\controller",
+	"CONTROLLER_ERROR_DIR":"c:\\temp\\framework\\controller\\error",
+	"PUBLIC_DIR":"c:\\temp\\framework\\public",
+
+	"ROUTE_FILE_NAME":"route.json",
+
+	"CONTROLLER_404":"404"
+}
